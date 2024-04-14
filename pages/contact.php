@@ -1,0 +1,3 @@
+If Our site gave you a virus or crashed your computer, it didn’t. Our site has no malicious software of any kind. We simply link to sites that host the videos, and we have no control over the ads they put on. If you have the basic Antivirus protection, you’re gonna be fine.
+<br>
+For Queries, Suggestions, Advertising or Complaints, feel free to Email US - <a href="mailto:<?=$domain?>@protonmail.com"><?=$domain?>@protonmail.com</a>
